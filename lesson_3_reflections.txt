@@ -4,3 +4,8 @@ Would I want to?
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 Accuracy
 
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+A fork is a copy of an online repository which creates a new online repository.
+A clone is a copy of an online repsitory which creates a new local repository.
+A branch is an addition to a single repository.
+

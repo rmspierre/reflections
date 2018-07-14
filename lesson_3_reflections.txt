@@ -9,3 +9,6 @@ A fork is a copy of an online repository which creates a new online repository.
 A clone is a copy of an online repsitory which creates a new local repository.
 A branch is an addition to a single repository.
 
+What is the benefit of having a copy of the last known state of the remote stored locally?
+You can compare online copy to local copy while offline.
+
